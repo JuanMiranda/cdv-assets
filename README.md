@@ -11,10 +11,15 @@ $ npm install -g cdv-assets
 ```
 
 ## Usage
-Run this tool 
 
 ```bash
 $ cdv-assets <platform> [options]
+```
+
+Example: to generate all the icons and splashscreens for all the supported platforms
+
+```bash
+$ cdv-assets all
 ```
 
 ### Platform:
