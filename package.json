@@ -1,0 +1,41 @@
+{
+  "name": "cdv-assets",
+  "description": "Use this tool to generate all the required assets for a cordova/ionic/phonegap application",
+  "version": "1.0.0",
+  "homepage": "https://github.com/JuanNorsync/cdv-assets",
+  "author": {
+    "name": "Juan Miranda",
+    "url": "https://github.com/JuanNorsync",
+    "email": "jcmtandil@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/JuanNorsync/cdv-assets.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JuanNorsync/cdv-assets/issues"
+  },
+  "license": "MIT",
+  "keywords": [
+    "cli",
+    "command line"
+  ],
+  "preferGlobal": true,
+  "bin": {
+    "cdv-assets": "client.js"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "meow": "^3.1.0",
+    "colors": "^0.6.2",
+    "fs-extra": "^0.30.0",
+    "imagemagick": "^0.1.3",
+    "q": "^1.0.1"
+  }
+}
