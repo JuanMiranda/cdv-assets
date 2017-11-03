@@ -1,7 +1,7 @@
 {
   "name": "cdv-assets",
   "description": "Use this tool to generate all the required assets for a cordova/ionic/phonegap application",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homepage": "https://github.com/JuanNorsync/cdv-assets",
   "author": {
     "name": "Juan Miranda",
