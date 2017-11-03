@@ -18,13 +18,13 @@ $ cdv-assets <platform> [options]
 ```
 
 ### Platform:
-- **all** | To generate for all the supported platforms
-- **android** | To generate for Android only
-- **ios** | To generate for IOS only
+- **all** ---- To generate for all the supported platforms
+- **android** ---- To generate for Android only
+- **ios** ---- To generate for IOS only
         
 ### Options:
-- **-i** - To generate icons only
-- **-s** - To generate splashscreens only
+- **-i** ---- To generate icons only
+- **-s** ---- To generate splashscreens only
 
 #### Note: The current directory must have the required files:
 >   - for icons: An icon.png file with a minimum size of 1024 x 1024 pixels.
